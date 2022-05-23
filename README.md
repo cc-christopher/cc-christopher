@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: this is a fun fact
 -->
 
-I learn informatics in decent steps to bridge biology on my right hand, with the power of data processing on my left hand... which explains my presence in The School of Electrical Engineering and Informatics, Bandung Institute of Technology.
+Nice to meet you!
+I am working in informatics to solve frontier issues in chemistry and biology.
+For those projects, I delve in computations. Meanwhile, I do side projects with C and Python, which are pinned below.
 
 I am pleased to be reached at my instagram.com/cc.christopher
 
